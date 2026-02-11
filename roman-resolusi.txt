@@ -1,0 +1,7 @@
+Halo pak Salam kenal, saya Roman, senang dengan konten pembelajaran GIT yang bapak buat, terima kasih atas ilmunya.
+
+saya memiliki resolusi
+- Belajar Framework PHP: Laravel
+- Membuat project lewat GIT
+- Mengerjakan Project secara remote dari local ke Github dan deploy ke website
+- Mempelejari cara membuat staging pada project website
